@@ -2,6 +2,8 @@
 
 Exploratory Data Analysis (EDA) on FIFA World Cup 2026 match data using Python, Pandas, NumPy, and Matplotlib.
 
+![Wins](images/wins.png)
+
 ## 📁 Directory Structure
 
 ```text
